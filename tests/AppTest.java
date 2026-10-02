@@ -7,4 +7,9 @@ public class AppTest {
     public void testMessage() {
         assertEquals("DevOps CI Project is working successfully!", App.getMessage());
     }
+
+    @Test
+    public void testProjectName() {
+        assertEquals("DevOps CI 24BCS284", App.getProjectName());
+    }
 }
