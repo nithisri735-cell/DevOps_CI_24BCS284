@@ -1,7 +1,7 @@
 public class App {
 
     public static String getMessage() {
-        return "Feature branch version is working successfully!";
+        return "Feature and bugfix changes are integrated successfully!";
     }
 
     public static String getProjectName() {
