@@ -5,6 +5,6 @@ public class AppTest {
 
     @Test
     public void testMessage() {
-        assertEquals("DevOps CI Project is working successfully!", App.getMessage());
+        assertEquals("DevOps CI Project bug has been fixed!", App.getMessage());
     }
 }
