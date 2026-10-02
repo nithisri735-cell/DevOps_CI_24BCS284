@@ -1,7 +1,7 @@
 public class App {
 
     public static String getMessage() {
-        return "DevOps CI Project bug has been fixed!";
+        return "Feature branch version is working successfully!";
     }
 
     public static String getProjectName() {
