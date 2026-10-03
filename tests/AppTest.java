@@ -10,7 +10,7 @@ public class AppTest {
 
     @Test
     public void testProjectName() {
-        assertEquals("DevOps CI 24BCS284", App.getProjectName());
+        assertEquals("DevOps CI Project 24BCS284", App.getProjectName());
     }
    @Test
 public void testStudentId() {
